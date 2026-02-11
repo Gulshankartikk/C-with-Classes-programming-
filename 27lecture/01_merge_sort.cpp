@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+///wrong solution  fixed it
 
 void merge(int arr[], int l, int mid, int r) {
         int n = r - l + 1;
